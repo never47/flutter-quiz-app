@@ -10,5 +10,8 @@ An interactive and user-friendly quiz application developed using Flutter.
 ### Result:
 ![result_scene](https://github.com/never47/flutter-quiz-app/assets/120058681/82dfebe8-9a9c-4f27-89ee-8bb1f43a15f2)
 
-## Getting Started:
-1. Clone the repository: `git clone https://github.com/yourusername/FlutterQuizApp.git`
+### Installation
+
+```bash
+git clone https://github.com/yourusername/FlutterQuizApp.git
+```
